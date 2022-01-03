@@ -6,7 +6,10 @@
     <img src="https://img.shields.io/badge/Python-3.7-blue"/>
     <img src="https://img.shields.io/badge/Last commit-Dec.-yellow"/>
     <img src="https://img.shields.io/badge/Repo size-35.8kb-red"/>
+    
 </p>
+
+[![GitHub Actions SMZDM Bot](https://github.com/Microbai/smzdm_bot/actions/workflows/main.yml/badge.svg)](https://github.com/Microbai/smzdm_bot/actions/workflows/main.yml)
 
 # 1. 实现功能
 + `什么值得买`每日签到
